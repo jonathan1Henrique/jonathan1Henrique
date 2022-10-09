@@ -29,8 +29,11 @@
 
 ##
 
-<div>
-  <img align="right" height="130" style="border-radius:50px;" src="https://i.gifer.com/origin/0d/0d9a38a2bb9748d96b0c0759396d00dc_w200.gif">
+<div align="center">
+  <img align="left" height="130" style="border-radius:50px;" src="https://i.gifer.com/origin/0d/0d9a38a2bb9748d96b0c0759396d00dc_w200.gif">
+   <img align="center" height="130" style="border-radius:50px;" src="https://static.wikia.nocookie.net/street-fighter-sprites/images/2/26/SFA2-VS-Screen.gif/revision/latest?cb=20160804140908">
+  <img align="right" height="130" style="border-radius:50px;" src="https://i.pinimg.com/originals/d5/9b/4e/d59b4e4305b607a8e7d749cdf5746a78.gif">
+  
 </div>
 
 
