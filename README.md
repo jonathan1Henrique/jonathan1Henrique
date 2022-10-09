@@ -33,6 +33,5 @@
   <img align="right" height="130" style="border-radius:50px;" src="https://i.gifer.com/origin/0d/0d9a38a2bb9748d96b0c0759396d00dc_w200.gif">
 </div>
 
-##
 
 ![Snake animation](https://github.com/jonathan1Henrique/jonathan1Henrique/blob/output/github-contribution-grid-snake.svg)
